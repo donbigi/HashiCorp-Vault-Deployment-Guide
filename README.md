@@ -49,7 +49,7 @@ you can also add the install script in the main.tf file
 
 1. Initialize and unseal Vault:
    ```
-   vault server -dev # initialize in dev mode
+   vault server -dev    #initialize in dev mode
    ```
 
 2. Set up authentication and secrets engine as needed.
