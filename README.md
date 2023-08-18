@@ -67,10 +67,12 @@ you can also add the install script in the main.tf file
 ## Access Vault Web Interface
 
 1. Use port forwarding in the VS Code terminal:
+
+Add port
+```
+   8200
    ```
-   add port 8200
-   ```
-2. Access Vault web interface in your browser: http://localhost:8200
+3. Access Vault web interface in your browser: http://localhost:8200
 
 **Note:** This is a simplified guide. Refer to official HashiCorp Vault and GCP documentation for detailed instructions.
 
