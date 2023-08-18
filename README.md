@@ -67,8 +67,8 @@ you can also add the install script in the main.tf file
 ## Access Vault Web Interface
 
 1. Use port forwarding in the VS Code terminal:
-
 Add port
+
 ```
    8200
    ```
