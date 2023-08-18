@@ -79,5 +79,4 @@ you can also add the install script in the main.tf file
 - Follow security best practices for VMs and Vault deployments.
 - Restrict access to necessary IP ranges in firewall rules.
 - Use strong authentication methods and secure communication for Vault.
-```
  
